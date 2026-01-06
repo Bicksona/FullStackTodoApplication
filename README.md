@@ -74,7 +74,7 @@ todoApplication
 ### Steps
 
 ```bash
-git clone https://github.com/your-username/todo-application.git
+git clone https://github.com/bicksona/todo-application.git
 cd todo-application
 mvn spring-boot:run
 ```
